@@ -1,7 +1,7 @@
 
 # simple-switch
 
-[![](https://travis-ci.org/marktiedemann/simple-switch.svg?branch=master)](https://travis-ci.org/marktiedemann/simple-switch)
+[![](https://travis-ci.org/MarkTiedemann/simple-switch.svg?branch=master)](https://travis-ci.org/MarkTiedemann/simple-switch)
 
 **Easily switch between callbacks and Promises.**
 
