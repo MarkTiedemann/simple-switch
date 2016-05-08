@@ -1,0 +1,34 @@
+{
+  "name": "simple-switch",
+  "version": "1.0.0",
+  "description": "Easily switch between callbacks and Promises.",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava --timeout 10s --verbose"
+  },
+  "keywords": [
+    "switch",
+    "promise",
+    "callback",
+    "promisify",
+    "callbackify"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "nyc": "^6.4.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/simple-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/simple-switch/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/simple-switch"
+}
